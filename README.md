@@ -3,6 +3,7 @@
 [![ORCID](https://img.shields.io/badge/ORCID-0009_0003_2640_3086-green.svg)](https://orcid.org/my-orcid?orcid=0009-0003-2640-3086)
 [![GitHub](https://img.shields.io/badge/GitHub-minibelfast-181717.svg?logo=github)](https://github.com/minibelfast)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-Xuanyu_Wang-00CCBB.svg?logo=researchgate)](https://www.researchgate.net/profile/Xuanyu-Wang-11/research)
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-xuanyuwang-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/xuanyuwang)
 
 GPMA (Gastric Prognostic Model Architecture) is a deep learning-based application for predicting the prognosis of gastric cancer patients. By integrating parallel Mamba, residual connections, wavelet transform, and feature fusion modules, this model significantly enhances the efficiency of image feature extraction and the accuracy of model prediction. It predicts patient prognosis by analyzing whole slide images (WSI) of digital pathology alongside clinical data.
 
