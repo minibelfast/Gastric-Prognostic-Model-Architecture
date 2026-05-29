@@ -78,4 +78,4 @@ If you find this project useful for your research, please cite our upcoming pape
 We thank the investigators who generated and publicly shared the single-cell datasets used in this study through repositories including GEO. Their commitment to open data made this work possible.
 
 ## License
-© 2025 Zhongnan Hospital. All rights reserved.
+© 2026 Zhongnan Hospital. All rights reserved.
